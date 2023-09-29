@@ -38,3 +38,4 @@ Este texto esta en **_negrita y cursiva_**
 ```
 [Esto es un enlace](http://joan23.fje.edu "Enlace a la web del cole")
 
+[Esto es una imagen en negro](foto.jpg "Titulo opcional de la imagen")
