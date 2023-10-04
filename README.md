@@ -45,3 +45,7 @@ Col 2 es|Centrada|35€|
 Col 3 es |Derecha|134€|
 |Estilo Cebra|Gris|Blanco|
 |Clase|ASIX1|M4|
+
+-[ ] Opción 1
+-[X] Opción 2
+-[ ] Opción 3 
